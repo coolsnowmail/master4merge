@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d3bc4fa-fc76-4463-a7f4-abd3787e44e6" name="Changes" comment="" />
+    <list default="true" id="1d3bc4fa-fc76-4463-a7f4-abd3787e44e6" name="Changes" comment="brand new vetkas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2JHhmtOtVTuDYLomrndC9ENWNsY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +31,29 @@
       <option name="presentableId" value="Default" />
       <updated>1671741079676</updated>
     </task>
+    <task id="LOCAL-00001" summary="brand new vetkas">
+      <created>1671741165427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671741165427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="brand new vetkas" />
+    <option name="LAST_COMMIT_MESSAGE" value="brand new vetkas" />
   </component>
 </project>
